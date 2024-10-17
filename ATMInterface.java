@@ -154,7 +154,7 @@ public class ATMInterface {
 	}
 	
 	public static void main(String[] args) {
-		System.out.println("\n********************WELCOME TO GOVARDHAN ATM INTERFACE*******************");
+		System.out.println("\n********************WELCOME TO ATM INTERFACE*******************");
 		System.out.println("\n1.Register \n2.Exit");
 		System.out.println("Choose one option: ");
 		int choose = takenIntegerInput(2);
